@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-07-24">
+  <sys_remote_update_set action="INSERT_OR_UPDATE">
+    <name>Smart Library Request Workflow</name>
+    <state>loaded</state>
+    <description>Update Set for Smart Library Request Workflow in ServiceNow including Book, Borrow Request tables, Roles, and Flow Designer configs.</description>
+  </sys_remote_update_set>
+</unload>
